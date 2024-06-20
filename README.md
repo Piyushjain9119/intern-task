@@ -25,7 +25,7 @@ The main steps in this task are:
 - **Automated Data Extraction:** Automatically collects the required information after the CAPTCHA is successfully entered.
 - **Formatted Output:** Displays the scraped data in a dictionary format for easy readability and further processing.
 
-# OUTPUT OF THE PYTHON SCRIPT 
+
   
   ![image](https://github.com/Piyushjain9119/intern-task/assets/128716173/9b780453-9bcc-4b20-a448-93923c688d16)
 
@@ -37,6 +37,9 @@ The main steps in this task are:
 4. Execute the Python script.
 5. When prompted, manually enter the CAPTCHA displayed on the TINXSYS website.
 6. The script will continue to scrape the necessary data and display it in a dictionary format.
+
+ 
+ # OUTPUT OF THE PYTHON SCRIPT 
 
    ![image](https://github.com/Piyushjain9119/intern-task/assets/128716173/31d995d6-6885-48a9-8ad9-95d16306efcc)
 
