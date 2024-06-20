@@ -25,6 +25,7 @@ The main steps in this task are:
 - **Automated Data Extraction:** Automatically collects the required information after the CAPTCHA is successfully entered.
 - **Formatted Output:** Displays the scraped data in a dictionary format for easy readability and further processing.
 
+# OUTPUT OF THE PYTHON SCRIPT 
   
   ![image](https://github.com/Piyushjain9119/intern-task/assets/128716173/9b780453-9bcc-4b20-a448-93923c688d16)
 
